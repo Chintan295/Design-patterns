@@ -22,3 +22,8 @@
 1. Observer ( [C++](./C++/Behavioral/Observer/) | [Java]() | [Dart]() )
 2. Strategy ( [C++](./C++/Behavioral/Strategy/) | [Java]() | [Dart]() )
 3. Template ( [C++](./C++/Behavioral/Template/) | [Java]() | [Dart]() )
+4. Command ( [C++](./C++/Behavioral/Command/) | [Java]() | [Dart]() )
+5. Chain of responsibility ( [C++](./C++/Behavioral/ChainOfResponsibility/) | [Java]() | [Dart]() )
+6. Iterator ( [C++](./C++/Behavioral/Iterator/) | [Java]() | [Dart]() )
+7. State ( [C++](./C++/Behavioral/State/) | [Java]() | [Dart]() )
+8. Interpreter ( [C++](./C++/Behavioral/Interpreter/) | [Java]() | [Dart]() )
